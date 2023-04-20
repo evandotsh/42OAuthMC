@@ -58,6 +58,7 @@ public class Oauth42 extends JavaPlugin implements Listener {
             }
         } catch (IOException e) {
             e.printStackTrace();
+            player.kickPlayer(ChatColor.RED + "Please try again :)");
         }
     }
 }
