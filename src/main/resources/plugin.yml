@@ -1,0 +1,4 @@
+name: OAuth42
+author: evansh
+main: sh.evan.oauth42.Oauth42
+version: 1.0-BETA
